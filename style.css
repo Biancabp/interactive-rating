@@ -1,0 +1,95 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+.p-32{
+    padding: 32px;
+}
+
+.container{
+  min-height: 800px;
+}
+
+.bg-main{
+    background: #171b22;
+}
+
+.text-white{
+    color: white;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+.text-gray{
+    color: #69707A;
+}
+
+.fs-12{
+    font-size: 14px;
+}
+
+.card{
+    min-width: 400px;
+    border-radius: 30px;
+}
+
+.card-text{
+    padding: 15px;
+    padding-left: 0;
+}
+
+.circle{
+    border-radius: 50%;
+    background-color: #1e242b;
+    width: 45px;
+    height: 45px;
+    margin-bottom: 35px;
+}
+
+.circle img{
+    max-width: 15px;
+}
+
+.circles button{
+    text-decoration: none;
+    color: #69707A;
+    border: 0;
+}
+
+.circles button:hover{
+    transition: all 0.5s ease;
+    color: white;
+    background: #7B8898;
+}
+
+.circles button:active{
+    color: white;
+    background: #FB5980;
+}
+
+.submit{
+    border-radius: 25px;
+    background-color: #FB5980;
+    border: 0;
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    padding: 12px;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.submit:hover{
+    transition: all 0.5s ease;
+    background-color: white;
+    color: #FB5980;
+}
+
+.submit-button{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
